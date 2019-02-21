@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b01227f5-a550-4648-8795-24b49b04cc62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestVendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestVendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VendingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/VendingMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestVendingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestVendingMachine.class" afterDir="false" />
-    </list>
+    <list default="true" id="b01227f5-a550-4648-8795-24b49b04cc62" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +15,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestVendingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="83" column="43" lean-forward="true" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+            <state relative-caret-position="68">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#402#403#0" expanded="true" />
                 <element signature="e#469#470#0" expanded="true" />
               </folding>
@@ -35,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/VendingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1564">
-              <caret line="139" selection-start-line="139" selection-end-line="139" />
+            <state relative-caret-position="351">
+              <caret line="112" selection-start-line="112" selection-end-line="112" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="187" />
     <option name="y" value="32" />
     <option name="width" value="1069" />
@@ -97,36 +90,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="VendingMachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vending-machine-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="vending-machine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VendingMachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vending-machine-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="vending-machine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VendingMachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vending-machine-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="vending-machine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VendingMachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vending-machine-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="vending-machine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VendingMachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vending-machine-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="vending-machine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -134,13 +126,13 @@
             </path>
             <path>
               <item name="VendingMachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vending-machine-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="vending-machine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VendingMachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vending-machine-kata" type="462c0819:PsiDirectoryNode" />
+              <item name="vending-machine" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -149,10 +141,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550696831958" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550723925978" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -248,9 +241,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestVendingMachine_getPriceOfProduct_(1) - 2019.02.20 at 13h 50m 07s.xml">
-      <configuration name="TestVendingMachine.getPriceOfProduct (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestVendingMachine_getPriceOfProduct_(1) - 2019.02.20 at 13h 51m 25s.xml">
       <configuration name="TestVendingMachine.getPriceOfProduct (1)" configurationId="JUnit" />
     </history-entry>
@@ -278,12 +268,14 @@
     <history-entry file="TestVendingMachine - 2019.02.20 at 21h 50m 32s.xml">
       <configuration name="TestVendingMachine" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestVendingMachine - 2019.02.20 at 22h 07m 22s.xml">
+      <configuration name="TestVendingMachine" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="-14" width="1329" height="783" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20233463" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30505836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -358,10 +350,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Coin.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestVendingMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -372,22 +368,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestVendingMachine.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Coin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="83" column="43" lean-forward="true" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VendingMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="139" selection-start-line="139" selection-end-line="139" />
+        <state relative-caret-position="351">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
