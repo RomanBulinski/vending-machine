@@ -1,3 +1,5 @@
+package VendingMachineControl;
+
 import Model.Coin;
 import Model.Product;
 
@@ -10,8 +12,6 @@ public class VendingMachine {
     List<Coin> myCoinsInMachine = new ArrayList<>();
     List<Coin> coinsInMachine = new ArrayList<>();
     List<Product> productsinMachine = new ArrayList<>();
-
-
 
     double quartersValue = 0.25;
     double dimesValue = 0.10;

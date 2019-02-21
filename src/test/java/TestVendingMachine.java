@@ -1,5 +1,6 @@
 import Model.Coin;
 import Model.Product;
+import VendingMachineControl.VendingMachine;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
