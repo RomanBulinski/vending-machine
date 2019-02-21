@@ -1,10 +1,15 @@
+import VendingMachineControl.VendingControl;
+import View.View;
+
 public class Main {
-    private static Main ourInstance = new Main();
 
-    public static Main getInstance() {
-        return ourInstance;
+
+    public static void main(String[] args) {
+
+        VendingControl vendingControl = new VendingControl();
+        vendingControl.controler();
+
     }
 
-    private Main() {
-    }
+
 }

@@ -1,21 +1,22 @@
 package VendingMachineControl;
 
 import Model.Coin;
+import Model.Machine;
 import Model.Product;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-public class VendingMachine {
+public class VendingMachineMethods {
 
-    List<Coin> myCoinsInMachine = new ArrayList<>();
-    List<Coin> coinsInMachine = new ArrayList<>();
-    List<Product> productsinMachine = new ArrayList<>();
+//    List<Coin> myCoinsInMachine = new ArrayList<>();
+//    List<Coin> coinsInMachine = new ArrayList<>();
+//    List<Product> productsinMachine = new ArrayList<>();
 
-    double quartersValue = 0.25;
-    double dimesValue = 0.10;
-    double nickelsValue = 0.05;
+    private double quartersValue = 0.25;
+    private double dimesValue = 0.10;
+    private double nickelsValue = 0.05;
 
     public boolean checkIfInserted( Coin coin ){
         if( coin==null ) {

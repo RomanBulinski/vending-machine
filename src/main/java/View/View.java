@@ -2,8 +2,9 @@ package View;
 
 public class View {
 
-    public printline(String string){
+    public void printline(String string){
         System.out.println(string);
-
     }
+
+
 }
