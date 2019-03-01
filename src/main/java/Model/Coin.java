@@ -23,11 +23,11 @@ public class Coin {
         }
         if( 10 < weight  && weight <= 20  ){
             type = "nickels";
+            value = 0.05;
             valid =true;
         }
         if( weight <= 10 ){
             type = "pennies";
-            value = 0.05;
             valid =false;
         }
     }

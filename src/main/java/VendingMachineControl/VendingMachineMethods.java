@@ -10,10 +10,6 @@ import java.util.List;
 
 public class VendingMachineMethods {
 
-//    List<Coin> myCoinsInMachine = new ArrayList<>();
-//    List<Coin> coinsInMachine = new ArrayList<>();
-//    List<Product> productsinMachine = new ArrayList<>();
-
     private double quartersValue = 0.25;
     private double dimesValue = 0.10;
     private double nickelsValue = 0.05;
@@ -98,7 +94,6 @@ public class VendingMachineMethods {
             for(int i =0; i < returnAmountOfnickels; i++){
                 coinsReturn.add( new Coin("nickels") );
             }
-//            moneyInBank = moneyInBank- (amountOfnickels*dimesValue);
         }
         return coinsReturn;
     }
@@ -137,30 +132,6 @@ public class VendingMachineMethods {
         }
         return false;
     }
-
-
-
-
-//    public List<Coin> getProduct ( Product product, List<Coin> myCoinsBank ) {
-//
-//    }
-
-
-
-
-
-//    There are three products: cola for $1.00, chips for $0.50, and candy for $0.65.
-//    When the respective button is pressed and enough money has been inserted,
-//    the product is dispensed and the machine displays THANK YOU.
-//    If the display is checked again, it will display INSERT COIN and the current amount
-//    will be set to $0.00. If there is not enough money inserted then
-//    the machine displays PRICE and the price of the item and subsequent checks of the display
-//    will display either INSERT COIN or the current amount as appropriate.
-
-
-
-
-
 
 
 }

@@ -20,6 +20,7 @@ public class TestVendingMachine {
         assertFalse(vendingMachine.checkIfInserted( null ));
     }
 
+
     @Test
     public void testifCoinWasInserted(){
         coin = new Coin(45);

@@ -5,6 +5,9 @@ import Model.Machine;
 import Model.Product;
 import View.View;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 public class VendingControl {
@@ -13,6 +16,12 @@ public class VendingControl {
     Product product;
     Coin coin;
     Machine machine = new Machine();
+
+    List<String> menu = Arrays.asList("Insert coins", "Select product", "Buy productv" );
+
+    public void mainMeny(){
+
+    }
 
     public VendingControl(){
         view = new View();
@@ -24,14 +33,24 @@ public class VendingControl {
         int flag = 0;
         while(flag==0) {
 
-            view.printline("Choose number 1-4 :");
+            view.printline("");
+            view.printline("Choose number :");
+            view.printline("");
+            view.printArrayList(menu);
 
             int number = input.nextInt();
             switch (number) {
 
                 case 1:
-                    view.printline("----------1:");
 
+                    List<String> coins = Arrays.asList( "nickels", "dimes", "quarters", "pennies" );
+
+                    view.printline("You can insert ");
+                    view.printline(" ");
+
+                    view.printArrayList(coins);
+
+//                    nickels;dimes;quarters;pennies;
 
                     break;
 
